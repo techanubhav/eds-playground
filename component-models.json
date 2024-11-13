@@ -186,6 +186,15 @@
     ]
   },
   {
-    "id": "weather"
+    "id": "weather",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Alt",
+        "value": ""
+      }
+    ]
   }
 ]
