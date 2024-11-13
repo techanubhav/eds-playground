@@ -184,5 +184,8 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "weather"
   }
 ]
